@@ -97,7 +97,7 @@
 #endif
 
 /*
- * PostgreSQL 15 Beta3 (commit a2944d8724) introduces the ability to assign
+ * PostgreSQL 15 (commit a2944d8724) introduces the ability to assign
  * permissions to adjust server variables. This adds the call for the new
  * function in PostgreSQL 14 and earlier.
  */
